@@ -1,0 +1,4 @@
+quiz_code,quiz_name,total_questions,time_minutes,book_code,mcq_url,sync_code
+Q001,English Practice 1,20,20,b_123,https://example.com/quiz1.csv,1
+Q002,General Knowledge Practice 1,20,20,b_135,https://example.com/quiz2.csv,1
+Q003,Islamic Studies Practice 1,20,20,b_131,https://example.com/quiz3.csv,1
