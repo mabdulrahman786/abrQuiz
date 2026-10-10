@@ -1,0 +1,21 @@
+id,name,sub_type_name,sub_code,sync_code
+1,English,English,b_123,1
+2,English,Vocabulary,b_124,1
+3,English,Grammar,b_125,1
+4,English,Comprehension,b_126,1
+5,English,Sentence Structuring,b_127,1
+6,Urdu,Urdu,b_128,1
+7,Urdu,Grammar,b_129,1
+8,Urdu,Translation,b_130,1
+9,IslamicStudies,IslamicStudies,b_131,1
+10,IslamicStudies,Civics,b_132,1
+11,GK,PakStudies,b_133,1
+12,GK,CurrentAffairs,b_134,1
+13,Generalability,Generalability,b_135,1
+14,Generalability,Algebra,b_136,1
+15,Generalability,Ratios,b_137,1
+16,Generalability,Percentages,b_138,1
+17,Generalability,Arithmetic,b_139,1
+18,Generalability,Logical,b_140,1
+19,Generalability,Analytical,b_141,1
+20,Generalability,Mental,b_142,1
