@@ -1,0 +1,3 @@
+﻿job_id,department,post_name,scale,opening_date,closing_date,job_type,duration,life,how_to_apply,area,official_url,sync_code
+J001,Government,STI,Teacher,2026-10-01,2026-10-18,Temporary,6-9 months,Open,"Sample only: verify current advertisement, create/update profile on the official portal, and apply for an eligible vacancy.",Punjab; eligible union council only,https://example.com/sti,1
+J002,Government,CTI,College Teacher,2026-10-01,2026-10-18,Temporary,As stated in official advertisement,Open,"Sample only: check the official college/department advertisement for eligibility, dates and application instructions.",Punjab,https://example.com/cti,1

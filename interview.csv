@@ -1,0 +1,21 @@
+﻿id,question,answer,category,book_code,sync_code
+I001,What is your strength?,"I am hardworking, consistent and willing to learn.",Personal,b_123,1
+I002,Why should we hire you?,"I meet the role requirements, learn quickly and focus on reliable work.",HR,b_123,1
+I003,What is your weakness?,I am improving my time estimation by breaking tasks into smaller steps.,HR,b_123,1
+I004,Tell us about yourself.,"Briefly summarize your education, relevant experience and strengths.",HR,b_123,1
+I005,How do you handle pressure?,"I prioritize tasks, stay organized and communicate early about risks.",HR,b_123,1
+I006,Describe teamwork.,"I listen to colleagues, share information and work toward shared goals.",HR,b_123,1
+I007,How do you handle conflict?,"I listen calmly, focus on facts and seek a fair solution.",HR,b_123,1
+I008,Why do you want this job?,The role matches my skills and gives me an opportunity to contribute.,HR,b_123,1
+I009,What is good customer service?,"Understanding needs, giving accurate information and resolving issues respectfully.",Customer Service,b_123,1
+I010,How do you manage time?,I rank tasks by urgency and importance and review progress regularly.,Productivity,b_123,1
+I011,What is leadership?,Helping a team work toward a goal with accountability and clear communication.,Management,b_123,1
+I012,How do you learn a new task?,"I review instructions, ask focused questions, practice and check my work.",Learning,b_123,1
+I013,What is integrity?,Being honest and following ethical standards even when no one is watching.,Ethics,b_123,1
+I014,How would you handle a mistake?,"I would report it, correct it where possible and learn how to prevent recurrence.",Problem Solving,b_123,1
+I015,What motivates you?,"Clear goals, useful work and opportunities to improve my skills.",Personal,b_123,1
+I016,How do you respond to feedback?,"I listen, clarify expectations and apply actionable suggestions.",HR,b_123,1
+I017,What is punctuality?,Arriving and completing duties at the agreed time.,Workplace,b_123,1
+I018,How would you help a customer?,"I would listen, clarify the issue and provide an accurate solution or referral.",Customer Service,b_123,1
+I019,What is problem solving?,"Defining a problem, comparing options and evaluating the result.",Problem Solving,b_123,1
+I020,Do you have questions for us?,"Ask about the role priorities, training and how success is measured.",Interview,b_123,1

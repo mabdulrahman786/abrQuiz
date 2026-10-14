@@ -1,0 +1,61 @@
+﻿id,word,meaning_en,meaning_ur,pronunciation,example_en,example_ur,book_code,sync_code
+V001,Abstruse,Difficult to understand,مشکل، پیچیدہ,ab-STROOS,The lecture was abstruse.,,b_124,1
+V002,Benevolent,Kind and generous,مہربان، فیاض,buh-NEV-uh-lent,A benevolent neighbour helped us.,,b_124,1
+V003,Concise,Brief but clear,مختصر مگر واضح,kun-SICE,Write a concise answer.,,b_124,1
+V004,Diligent,Hardworking and careful,محنتی,DIL-ih-jent,She is a diligent student.,,b_124,1
+V005,Eloquent,Fluent and persuasive,فصیح، بلیغ,EL-uh-kwent,He gave an eloquent speech.,,b_124,1
+V006,Ambiguous,Having more than one meaning,مبہم,am-BIG-yoo-us,The instruction was ambiguous.,,b_124,1
+V007,Meticulous,Very careful about details,باریک بین,muh-TIK-yuh-lus,He kept meticulous records.,,b_124,1
+V008,Reluctant,Unwilling or hesitant,ہچکچانے والا,ri-LUK-tunt,She was reluctant to leave.,,b_124,1
+V009,Vital,Essential,ضروری,VY-tul,Water is vital for life.,,b_124,1
+V010,Scrutinize,Examine closely,غور سے جانچنا,SKROO-tin-eyez,Scrutinize the evidence.,,b_124,1
+V011,Credible,Believable or trustworthy,قابل یقین,kred-uh-bul,Her account sounded credible.,اس کا بیان قابل یقین لگا۔,b_124,1
+V012,Credulous,Gullible - too ready to believe,سادہ لوح، جلد یقین کرنے والا,krej-uh-lus,Only a credulous reader would accept it without proof.,صرف سادہ لوح قاری بغیر ثبوت کے مان لے گا۔,b_124,1
+V013,Disinterested,Impartial - having no personal stake,غیر جانبدار,dis-IN-trest-id,The disinterested manager made a fair decision.,غیر جانبدار منیجر نے منصفانہ فیصلہ کیا۔,b_124,1
+V014,Uninterested,Not interested - not caring,غیر دلچسپ، بے پرواہ,un-IN-trest-id,He was uninterested in the lecture.,وہ لیکچر میں بے پرواہ تھا۔,b_124,1
+V015,Scanty,Too small in amount - insufficient,قلیل، ناکافی,skan-tee,The surviving evidence was scanty.,باقی شواہد قلیل تھے۔,b_124,1
+V016,Abundant,Plentiful - more than enough,وافر، بہت زیادہ,uh-bun-dant,Abundant resources were found.,وافر وسائل ملے۔,b_124,1
+V017,Pusillanimous,Cowardly - lacking courage,بزدل,pus-uh-lan-uh-mus,His pusillanimous response disappointed everyone.,اس کے بزدلانہ جواب نے سب کو مایوس کیا۔,b_124,1
+V018,Resolute,Determined and firm,پرعزم، ثابت قدم,rez-uh-loot,She remained resolute despite pressure.,دباؤ کے باوجود وہ پرعزم رہی۔,b_124,1
+V019,Nascent,Just beginning to develop,نوزائیدہ، ابتدائی,nas-ent,The proposal was nascent rather than fully developed.,تجویز ابتدائی تھی مکمل نہیں۔,b_124,1
+V020,Bias,Unfair preference or prejudice,تعصب,by-us,The commentary was biased.,تبصرہ متعصبانہ تھا۔,b_124,1
+V021,Impartial,Fair - not biased,غیر جانبدار,im-par-shal,An impartial judge is needed.,غیر جانبدار جج کی ضرورت ہے۔,b_124,1
+V022,Rebarbative,Repellent - unattractive or offensive,نفرت انگیز، ناگوار,ri-bar-buh-tiv,The reviewer's tone was rebarbative.,مبصر کا لہجہ ناگوار تھا۔,b_124,1
+V023,Cogent,Convincing and logical,مدلل، قائل کرنے والا,koh-jent,He made a cogent argument.,اس نے مدلل دلیل دی۔,b_124,1
+V024,Perfunctory,Done without care - superficial,سرسری، خانہ پوری,per-funk-tuh-ree,The inspection was merely perfunctory.,معائنہ صرف خانہ پوری تھا۔,b_124,1
+V025,Cursory,Hasty and not thorough,سرسری,kur-suh-ree,He gave a cursory glance at the report.,اس نے رپورٹ پر سرسری نظر ڈالی۔,b_124,1
+V026,Antiquated,Old-fashioned - obsolete,فرسودہ، پرانا,an-ti-kway-tid,The apparatus appeared medieval and antiquated.,آلہ فرسودہ لگا۔,b_124,1
+V027,Evoke,To bring to mind or recall,یاد دلانا,ih-voke,The imagery was intended to evoke a vanished era.,منظر کشی ماضی کے دور کی یاد دلانے کے لیے تھی۔,b_124,1
+V028,Invoke,To call upon as authority,پکارنا، حوالہ دینا,in-voke,He invoked tradition as an authority.,اس نے روایت کو بطور دلیل پیش کیا۔,b_124,1
+V029,Elicit,To draw out a response,نکالنا، حاصل کرنا,ih-lis-it,The interviewer tried to elicit a response.,انٹرویو لینے والے نے جواب حاصل کرنے کی کوشش کی۔,b_124,1
+V030,Illicit,Illegal - not allowed,ناجائز، غیر قانونی,ih-lis-it,The recording was illicit.,ریکارڈنگ غیر قانونی تھی۔,b_124,1
+V031,Illicit vs Elicit,Illicit=illegal and Elicit=to obtain,ناجائز بمقابلہ حاصل کرنا,ih-lis-it,Do not confuse illicit with elicit.,ناجائز اور حاصل کرنا میں فرق رکھیں۔,b_124,1
+V032,Incredulous,Unable to believe - skeptical,شکوک میں مبتلا,in-krej-uh-lus,He was incredulous at the claim.,وہ دعوے پر شک میں تھا۔,b_124,1
+V033,Creditable,Worthy of praise,قابل تعریف,kred-it-uh-bul,His creditable effort was appreciated.,اس کی قابل تعریف کوشش سراہی گئی۔,b_124,1
+V034,Consonant,In agreement or harmony,ہم آہنگ,kon-suh-nent,His statement is consonant with the notes.,اس کا بیان نوٹس سے ہم آہنگ ہے۔,b_124,1
+V035,At variance,In disagreement or conflict,متصادم، اختلاف میں,at vair-ee-ance,Her account is at variance with testimony.,اس کا بیان گواہی سے متصادم ہے۔,b_124,1
+V036,Posterior,Later or coming after,بعد میں آنے والا,pos-teer-ee-er,The annotation is posterior to the watermark.,حاشیہ واٹر مارک کے بعد کا ہے۔,b_124,1
+V037,Anterior,Earlier or coming before,پہلے آنے والا,an-teer-ee-er,This event is anterior to the rebinding.,یہ واقعہ جلد بندی سے پہلے کا ہے۔,b_124,1
+V038,In lieu of,Instead of - in place of,کے بدلے میں,in loo of,The substitute chart was accepted in lieu of original.,متبادل چارٹ اصل کے بدلے قبول کیا گیا۔,b_124,1
+V039,Quantitative,Related to numbers or measurement,مقداری,kwon-ti-tay-tiv,Quantitative comparisons require scrutiny.,مقداری موازنہ جانچ کا متقاضی ہے۔,b_124,1
+V040,Classification,Categorization or grouping,درجہ بندی,klas-uh-fi-kay-shun,Imperfect classifications make comparison difficult.,نامکمل درجہ بندی موازنہ مشکل بناتی ہے۔,b_124,1
+V041,Scepticism,Doubt or disbelief,شک، تشکیک,skep-ti-siz-um,The author rejects wholesale scepticism.,مصنف مکمل شک کو رد کرتا ہے۔,b_124,1
+V042,Corroboration,Confirmation with evidence,توثیق، تصدیق,kuh-rob-uh-ray-shun,The story needs corroboration.,کہانی کو توثیق کی ضرورت ہے۔,b_124,1
+V043,Ambiguous,Having more than one possible meaning,مبہم,am-big-yoo-us,The experts rewrote ambiguous clauses.,ماہرین نے مبہم شقیں دوبارہ لکھیں۔,b_124,1
+V044,Discrepancy,Difference or inconsistency,تضاد، فرق,dis-krep-an-see,Even minor entry discrepancy could affect eligibility.,معمولی اندراج کا تضاد بھی اہلیت پر اثر ڈال سکتا ہے۔,b_124,1
+V045,Scrutiny,Careful examination,باریک بینی، جانچ,skroo-tuh-nee,The scrutiny officer checked the original file.,جانچ افسر نے اصل فائل چیک کی۔,b_124,1
+V046,Contingency,A possible future event,ہنگامی صورتحال,kon-tin-jen-see,Keep one's powder dry for future contingency.,مستقبل کی ہنگامی صورتحال کے لیے تیار رہنا۔,b_124,1
+V047,Excessive,Too much - more than necessary,حد سے زیادہ,ik-ses-iv,Use of excessive force against minor offence.,معمولی جرم پر حد سے زیادہ طاقت کا استعمال۔,b_124,1
+V048,Trifle,A thing of little value,معمولی چیز,try-ful,Object to a trifle while tolerating grave fault.,معمولی چیز پر اعتراض جبکہ بڑا قصور برداشت۔,b_124,1
+V049,Stronghold,A place of security or power,گڑھ، مضبوط جگہ,strong-hold,To beard the lion in his den is to confront opponent in his stronghold.,شیر کو اس کے گڑھ میں للکارنا۔,b_124,1
+V050,Anomaly,Something different from normal,بے قاعدگی، غیر معمولی,uh-nom-uh-lee,The data analysts could not explain the statistical anomaly.,ڈیٹا تجزیہ کار شماریاتی بے قاعدگی کی وضاحت نہ کر سکے۔,b_124,1
+V051,Subsequent,Coming after - following,بعد والا,sub-si-kwent,Discrepancy was copied into subsequent tables.,تضاد بعد والی جدولوں میں نقل ہو گیا۔,b_124,1
+V052,Superior,Higher in rank or better,اعلیٰ، بہتر,soo-peer-ee-er,Superior to - not superior than.,اعلیٰ - superior to درست ہے۔,b_124,1
+V053,Multilateral,Involving several nations,کثیر الجہتی,mul-tee-lat-er-al,Multilateral consultations were held.,کثیر الجہتی مشاورت ہوئی۔,b_124,1
+V054,Symposium,A formal meeting or conference,سیمینار، مذاکرہ,sim-poh-zee-um,Diplomatic symposiums were organized.,سفارتی سیمینار منعقد ہوئے۔,b_124,1
+V055,Fiscal,Related to government revenue and spending,مالیاتی,fis-kal,Fiscal volatility of emerging markets.,ابھرتی منڈیوں کی مالیاتی عدم استحکام۔,b_124,1
+V056,Catalyze,To cause or accelerate a reaction,عمل انگیز کرنا,kat-uh-lyze,Enzymes catalyze cellular reactions.,خامرے خلیاتی عمل کو تیز کرتے ہیں۔,b_124,1
+V057,Ratification,Formal approval or confirmation,توثیق,rat-uh-fi-kay-shun,Prior to ratification of the charter.,چارٹر کی توثیق سے قبل۔,b_124,1
+V058,Interpretation,Explanation of meaning,تشریح، تعبیر,in-tur-pri-tay-shun,Unequal conditions affect interpretation.,غیر مساوی حالات تشریح پر اثر ڈالتے ہیں۔,b_124,1
+V059,Ambiguity,Unclearness due to multiple meanings,ابہام,am-bi-gyoo-i-tee,Much of later ambiguity could have been avoided.,بعد کا زیادہ تر ابہام ٹالا جا سکتا تھا۔,b_124,1
+V060,Representative,Typical of a group - serving as example,نمائندہ,rep-ri-zen-ta-tiv,Sample was not representative.,نمونہ نمائندہ نہیں تھا۔,b_124,1

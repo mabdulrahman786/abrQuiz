@@ -1,4 +1,5 @@
-quiz_code,quiz_name,total_questions,time_minutes,book_code,mcq_url,sync_code
-Q001,English Practice 1,20,20,b_123,https://example.com/quiz1.csv,1
-Q002,General Knowledge Practice 1,20,20,b_135,https://example.com/quiz2.csv,1
-Q003,Islamic Studies Practice 1,20,20,b_131,https://example.com/quiz3.csv,1
+﻿quiz_code,quiz_name,total_questions,time_minutes,book_code,level_no,difficulty,mcq_url,sync_code
+Q001,English & Vocabulary Practice,20,20,b_123,1,Easy,mcqs.csv,1
+Q002,Grammar & Comprehension Practice,20,20,b_125,2,Medium,mcqs.csv,1
+Q003,Sentence & Urdu Practice,20,20,b_127,3,Easy,mcqs.csv,1
+Q-MPT2027Bach1,MPT 10oct2026 Batch1,200,200,,4,difficult,mcqs.csv,2

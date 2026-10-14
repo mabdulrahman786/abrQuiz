@@ -1,0 +1,9 @@
+﻿dataset,sync_code,data_url
+books,1,books.csv
+quizzes,1,quizzes.csv
+mcqs,1,mcqs.csv
+jobs,1,jobs.csv
+vocabulary,1,vocabulary.csv
+interview_qa,1,interview.csv
+daily_challenge,1,daily_challenge.csv
+news,1,news.csv
